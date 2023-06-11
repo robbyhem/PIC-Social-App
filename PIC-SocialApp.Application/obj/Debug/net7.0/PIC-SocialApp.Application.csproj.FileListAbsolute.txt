@@ -1,0 +1,12 @@
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\bin\Debug\net7.0\PIC-SocialApp.Application.deps.json
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\bin\Debug\net7.0\PIC-SocialApp.Application.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\bin\Debug\net7.0\PIC-SocialApp.Application.pdb
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\PIC-SocialApp.Application.csproj.AssemblyReference.cache
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\PIC-SocialApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\PIC-SocialApp.Application.AssemblyInfoInputs.cache
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\PIC-SocialApp.Application.AssemblyInfo.cs
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\PIC-SocialApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\PIC-SocialApp.Application.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\refint\PIC-SocialApp.Application.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\PIC-SocialApp.Application.pdb
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\ref\PIC-SocialApp.Application.dll
