@@ -1,0 +1,17 @@
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\bin\Debug\net7.0\PIC-SocialApp.Infrastructure.deps.json
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\bin\Debug\net7.0\PIC-SocialApp.Infrastructure.runtimeconfig.json
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\bin\Debug\net7.0\PIC-SocialApp.Infrastructure.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\bin\Debug\net7.0\PIC-SocialApp.Infrastructure.pdb
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\bin\Debug\net7.0\PIC-SocialApp.Domain.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\bin\Debug\net7.0\PIC-SocialApp.Domain.pdb
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\PIC-SocialApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\PIC-SocialApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\PIC-SocialApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\PIC-SocialApp.Infrastructure.AssemblyInfo.cs
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\PIC-SocialApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\PIC-SocialApp.Infrastructure.csproj.CopyComplete
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\PIC-SocialApp.Infrastructure.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\refint\PIC-SocialApp.Infrastructure.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\PIC-SocialApp.Infrastructure.pdb
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\PIC-SocialApp.Infrastructure.genruntimeconfig.cache
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Infrastructure\obj\Debug\net7.0\ref\PIC-SocialApp.Infrastructure.dll

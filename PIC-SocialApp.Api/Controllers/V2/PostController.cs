@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using PIC_SocialApp.Domain.Models;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace PIC_SocialApp.Api.Controllers.V2
 {
@@ -9,12 +7,12 @@ namespace PIC_SocialApp.Api.Controllers.V2
     [ApiController]
     public class PostController : ControllerBase
     {
-        [HttpGet]
-        [Route("{id}")]
-        public IActionResult GetById(int id)
-        {
-            var post = new Post { Id = id, Text = "Hello, Universe!" };
-            return Ok(post);
-        }
+        //[HttpGet]
+        //[Route("{id}")]
+        //public IActionResult GetById(int id)
+        //{
+        //    var post = new Post { Id = id, Text = "Hello, Universe!" };
+        //    return Ok(post);
+        //}
     }
 }
