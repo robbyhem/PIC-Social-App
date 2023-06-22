@@ -7,4 +7,21 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Posts\Commands\" />
+    <Folder Include="Posts\CommandHandlers\" />
+    <Folder Include="Posts\QueryHandlers\" />
+    <Folder Include="Posts\Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PIC-SocialApp.Domain\PIC-SocialApp.Domain.csproj" />
+    <ProjectReference Include="..\PIC-SocialApp.Infrastructure\PIC-SocialApp.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

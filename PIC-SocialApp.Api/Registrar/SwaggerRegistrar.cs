@@ -4,7 +4,7 @@ namespace PIC_SocialApp.Api.Registrar
 {
     public class SwaggerRegistrar : IWebApplicationBuilderRegistrar
     {
-        public void RigisterServices(WebApplicationBuilder builder)
+        public void RegisterServices(WebApplicationBuilder builder)
         {
             builder.Services.ConfigureOptions<ConfigureSwaggerOptions>();
             builder.Services.AddSwaggerGen();

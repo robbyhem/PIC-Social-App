@@ -1,4 +1,3 @@
-
 using PIC_SocialApp.Api.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -4,17 +4,17 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace PIC_SocialApp.Api.Controllers.V1
 {
-    //[ApiVersion("1.0")]
-    //[Route("api/v{version:apiVersion}/[controller]")]
-    //[ApiController]
-    //public class PostController : ControllerBase
-    //{
-    //    [HttpGet]
-    //    [Route("{id}")]
-    //    public IActionResult GetById(int id)
-    //    {
-    //        var post = new Post { Id = id, Text = "Hello, World!" };
-    //        return Ok(post);
-    //    }
-    //}
+    [ApiVersion("1.0")]
+    [Route(ApiRoutes.BaseRoute)]
+    [ApiController]
+    public class PostController : ControllerBase
+    {
+        [HttpGet]
+        [Route(ApiRoutes.Posts.GetById)]
+        public IActionResult GetById(int id)
+        {
+            //var post = new Post { Id = id, Text = "Hello, World!" };
+            return Ok();
+        }
+    }
 }

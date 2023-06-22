@@ -5,7 +5,7 @@ namespace PIC_SocialApp.Api.Registrar
 {
     public class MvcApiRegistrar : IWebApplicationBuilderRegistrar
     {
-        public void RigisterServices(WebApplicationBuilder builder)
+        public void RegisterServices(WebApplicationBuilder builder)
         {
             builder.Services.AddControllers();
 

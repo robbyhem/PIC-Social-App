@@ -10,3 +10,8 @@ C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0
 C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\refint\PIC-SocialApp.Application.dll
 C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\PIC-SocialApp.Application.pdb
 C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\ref\PIC-SocialApp.Application.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\bin\Debug\net7.0\PIC-SocialApp.Domain.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\bin\Debug\net7.0\PIC-SocialApp.Infrastructure.dll
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\bin\Debug\net7.0\PIC-SocialApp.Domain.pdb
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\bin\Debug\net7.0\PIC-SocialApp.Infrastructure.pdb
+C:\Users\B\source\repos\PIC-SocialApp\PIC-SocialApp.Application\obj\Debug\net7.0\PIC-SocialApp.Application.csproj.CopyComplete

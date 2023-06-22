@@ -10,7 +10,7 @@ namespace PIC_SocialApp.Api.Extensions
 
             foreach (var reg in registrar)
             {
-                reg.RigisterServices(builder);
+                reg.RegisterServices(builder);
             }
         }
 
